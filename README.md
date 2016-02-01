@@ -9,12 +9,12 @@
 * to get best available location of the event via wifi, gps, gprs 
 
 ##Dev
-The app has min build ver: 19 & max: 23
-OKHTTP for multipart parsing (JSON objects)
+* The app has min build ver: 19 & max: 23
+* OKHTTP for multipart parsing (JSON objects)
 
 ##Things ToDo
-image resize before uploading
-app optimization
-UI
-app unit-testing
+* image resize before uploading
+* app optimization
+* UI
+* app unit-testing
 
