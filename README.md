@@ -11,6 +11,10 @@
 ##Dev
 * The app has min build ver: 19 & max: 23
 * OKHTTP for multipart parsing (JSON objects)
+* To open the project
+  * open android studio (make sure you have minimum sdk level mentioned above)
+  * click on import existing android studio project
+  * the project will load (may take some time for gradle build, or may download the appropriate gradle if not available)
 
 ##Things ToDo
 * image resize before uploading
