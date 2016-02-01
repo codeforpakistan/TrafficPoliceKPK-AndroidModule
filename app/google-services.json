@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_id": "kpk-traffic-book",
+    "project_number": "830325140741",
+    "name": "KPK Traffic Book"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830325140741:android:3a921fe70d94350e",
+        "client_id": "android:com.askari.farrukh.trafficpolicebookkp",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.askari.farrukh.trafficpolicebookkp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-70910442-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
