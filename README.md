@@ -24,30 +24,30 @@
 
 ## Screen Shots
 
-### Android App Page 1
-![AndroidApp - HomePage](/screenshots/sc1.PNG?raw=true "AndroidApp - HomePage")
+### Web App Page 1
+![AndroidApp - HomePage](/screenshots/sc1.PNG?raw=true "webdApp - HomePage")
 
-### Android App Page 2
-![AndroidApp - HomePage](/screenshots/sc2.PNG?raw=true "AndroidApp - HomePage")
+### Web App Page 2
+![AndroidApp - HomePage](/screenshots/sc2.PNG?raw=true "webApp - HomePage1")
 
-### Android App Page 3
-![AndroidApp - HomePage](/screenshots/sc3.PNG?raw=true "AndroidApp - HomePage")
+### webApp - deatialed Window
+![AndroidApp - HomePage](/screenshots/sc3.PNG?raw=true "webApp - deatialed Window")
 
-### Android App Page 4
+### webApp - deatialWimndo 
 ![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-39-17.png?raw=true "AndroidApp - HomePage")
 
 ### Android App Page 5
 ![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-39-27.png?raw=true "AndroidApp - HomePage")
 
-### Android App Page 6
-![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-39-37.png?raw=true "AndroidApp - HomePage")
+### AndroidApp - SideMenu
+![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-39-37.png?raw=true "AndroidApp - SideMenu")
 
-### Android App Page 7
-![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-39-48.png?raw=true "AndroidApp - HomePage")
+### AndroidApp - ChallanPage
+![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-39-48.png?raw=true "AndroidApp - ChallanPage")
 
-### Android App Page 8
-![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-40-01.png?raw=true "AndroidApp - HomePage")
+### AndroidApp - RoadAccidentsPage
+![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-40-01.png?raw=true "AndroidApp - RoadAccidentsPage")
 
-### Android App Page 9
-![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-40-12.png?raw=true "AndroidApp - HomePage")
+### AndroidApp - RoadInfrastructurePage
+![AndroidApp - HomePage](/screenshots/Screenshot_2016-02-13-10-40-12.png?raw=true "AndroidApp - RoadInfrastructurePage")
 
